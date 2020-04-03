@@ -66,7 +66,7 @@ function App() {
         </div>
       </section>
       {/* Page 4 (Intro) */}
-      <section id="page-2" className="page">
+      <section id="page-4" className="page">
         <h1>
           Page 4
         </h1>
